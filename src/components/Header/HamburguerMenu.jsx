@@ -9,7 +9,7 @@ const HamburguerMenu = ({ isActive }) => {
     isActive(!menuActive);
   };
   const icon = menuActive
-    ? "public/images/icon-close.svg"
+    ? "/images/icon-close.svg"
     : "/images/icon-hamburger.svg";
   return (
     <>

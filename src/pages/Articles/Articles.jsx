@@ -5,7 +5,7 @@ const Articles = () => {
   const articles = [
     {
       id: 1,
-      image: "/public/images/image-currency.jpg",
+      image: "/images/image-currency.jpg",
       by: "By Claire Robinson",
       subtitle: "Receive money in any currency with no fees",
       texto:
@@ -13,7 +13,7 @@ const Articles = () => {
     },
     {
       id: 2,
-      image: "/public/images/image-restaurant.jpg",
+      image: "/images/image-restaurant.jpg",
       by: "By Wilson Hutton",
       subtitle: "Treat yourself without worrying about money",
       texto:
@@ -22,7 +22,7 @@ const Articles = () => {
     {
       id: 3,
       by: "By Wilson Hutton",
-      image: "/public/images/image-plane.jpg",
+      image: "/images/image-plane.jpg",
       subtitle: "Take your Easybank card wherever you go",
       texto:
         "We want you to enjoy your travels. This is why we don’t charge any fees on purchases while you’re abroad. We’ll even show you …",
@@ -30,7 +30,7 @@ const Articles = () => {
     {
       id: 4,
       by: "By Claire Robinson",
-      image: "/public/images/image-confetti.jpg",
+      image: "/images/image-confetti.jpg",
       subtitle: "Our invite-only Beta accounts are now live!",
       texto:
         "After a lot of hard work by the whole team, we’re excited to launch our closed beta. It’s easy to request an invite through the site ...",

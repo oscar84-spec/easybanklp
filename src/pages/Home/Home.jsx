@@ -21,19 +21,19 @@ const Home = () => {
       <div className='home__container'>
         <div className='home__container-bgMockups'>
           <img
-            src='public/images/bg-intro-mobile.svg'
+            src='/images/bg-intro-mobile.svg'
             alt='bg-intro-mobile'
             className='home__container-bgMobile'
             loading='lazy'
           />
           <img
-            src='public/images/bg-intro-desktop.svg'
+            src='/images/bg-intro-desktop.svg'
             alt='bg-intro-desktop'
             className='home__container-bgDesktop'
             loading='lazy'
           />
           <img
-            src='public/images/image-mockups.png'
+            src='/images/image-mockups.png'
             alt='bg-intro-mobile'
             className='home__container-bgMockup'
             id='mockup'
